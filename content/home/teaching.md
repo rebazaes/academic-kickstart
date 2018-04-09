@@ -15,10 +15,10 @@ weight = 60
 
 +++
 
-Teaching Assistant.
-Currently I'm teaching assistant in the course Partial Differential Equations
+- Teaching Assistant.
+- Currently I'm teaching assistant in the course Partial Differential Equations
 (MAT2505/MAT250I).
-Past Courses.
-2017:Probability Theory (MAT2805/MAT380I),Introduction to Analysis(MAT2506).
-2016:Algebra and Geometry(MAT1103),Algebra(MAT1012),Introduction to Linear
+- Past Courses.
+- 2017:Probability Theory (MAT2805/MAT380I),Introduction to Analysis(MAT2506).
+- 2016:Algebra and Geometry(MAT1103),Algebra(MAT1012),Introduction to Linear
 Algebra(MAT1012)

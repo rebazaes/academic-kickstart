@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/rebazaes"
 
-  
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
