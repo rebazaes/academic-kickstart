@@ -230,10 +230,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/rebazaes"
 
-  [[params.social]]
-      icon = "facebook"
-      icon_pack = "fa"
-      link = "//facebook.com/rebazaes"
+  
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
