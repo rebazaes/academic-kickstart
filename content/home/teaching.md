@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,10 +15,10 @@ weight = 60
 
 +++
 
-- Teaching Assistant.
-- Currently I'm teaching assistant in the course Partial Differential Equations
-(MAT2505/MAT250I).
-- Past Courses.
+
+- Currently I'm teaching assistant in the course Partial Differential Equations (MAT2505/MAT250I)
+
+- Past Courses:
 - 2017:Probability Theory (MAT2805/MAT380I),Introduction to Analysis(MAT2506).
 - 2016:Algebra and Geometry(MAT1103),Algebra(MAT1012),Introduction to Linear
 Algebra(MAT1012)
