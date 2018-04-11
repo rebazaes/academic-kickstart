@@ -1,12 +1,12 @@
 +++
-title = "First Post"
-date = 2018-04-09T16:12:13-03:00
+title = "Directed Polymers In Random Environment,Part 1"
+date = 2018-04-11T11:15:13-03:00
 draft = false
 author= "Rodrigo Bazaes"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Others"]
+tags = ["Polymers"]
 categories = []
 
 # Featured image
@@ -20,8 +20,6 @@ caption = ""
 preview = true
 
 +++
-In the next weeks I will be posting some notes that I'm writing about Directed
-Polymers in Random Environment . This topic seems very interesting to me, and I
-hope to get a better understanding of it. \\
-On the other hand, I pretend to write notes about some topics of Probability
-Theory that I didn't learn when I took the Probability Theory course.
+This is the first part of the notes about Directed Polymers. I'm going to talk
+about these topics tomorrow in the university.\\
+{{% staticref "random-polymers-ch1.pdf" "newtab" %}}Chapter 1{{% /staticref %}}
