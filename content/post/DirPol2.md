@@ -31,4 +31,4 @@ After that, we improve the annealed bound.Finally, obtain a phase transition
 that distinguish between the cases $\lambda(\beta)=p(\beta)$ and
  $p(\beta)<\lambda(\beta)$.
 
-{{% staticref "directed-polymers-ch2.pdf" "newtab" %}}Chapter 2{{% /staticref %}}
+{{% staticref "polymers ch2.pdf" "newtab" %}}Chapter 2{{% /staticref %}}

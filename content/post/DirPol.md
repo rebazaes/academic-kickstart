@@ -23,4 +23,4 @@ preview = true
 This is the first part of the notes about Directed Polymers. I'm going to talk
 about these topics tomorrow at the university.
 
-{{% staticref "random-polymers-ch1.pdf" "newtab" %}}Chapter 1{{% /staticref %}}
+{{% staticref "polymers ch1.pdf" "newtab" %}}Chapter 1{{% /staticref %}}
