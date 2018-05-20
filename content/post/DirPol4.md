@@ -30,5 +30,5 @@ and the polymer is *delocalized* if $$\liminf\_{n\to \infty}\frac{1}{n}\sum\_{t=
 We have this localization transition:\
 **Theorem 2:** Let $\beta\not=0$.Then:\
 The polymer is localized if and only if $p<\lambda$.\
-The polymer is delocalied if and only id $p=\lambda$.\
+The polymer is delocalized if and only id $p=\lambda$.\
 {{% staticref "polymers ch4.pdf" "newtab" %}}Chapter 4{{% /staticref %}}
